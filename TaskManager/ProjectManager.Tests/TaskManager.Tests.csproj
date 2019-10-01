@@ -7,8 +7,8 @@
     <ProjectGuid>{8E818930-4192-4C95-8832-792E2BCB6607}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectManager.Tests</RootNamespace>
-    <AssemblyName>ProjectManager.Tests</AssemblyName>
+    <RootNamespace>TaskManager.Tests</RootNamespace>
+    <AssemblyName>TaskManager.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
