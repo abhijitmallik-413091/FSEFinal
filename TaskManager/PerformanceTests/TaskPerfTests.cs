@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using NBench;
 using TaskManager.Controllers;
+using System;
 
 namespace PerformanceTests
 {
@@ -10,12 +11,12 @@ namespace PerformanceTests
         [PerfBenchmark(NumberOfIterations = 5, RunMode = RunMode.Throughput,
         TestMode = TestMode.Test, SkipWarmups = true)]
         [ElapsedTimeAssertion(MaxTimeMilliseconds = 2000)]
-        public void PerformanceTestRetrieveProjects()
+        public void PerformanceTestRetrieveTasks()
         {
             // Set up Prerequisites   
             var controller = new TaskController();
             // Act on Test  
-            var response = controller.RetrieveProjects();
+            var response = controller.RetrieveTaskByUserInput("", "", 1, 15, null, null);
             // Assert the result  
             Assert.IsTrue(response != null);
 
@@ -24,30 +25,19 @@ namespace PerformanceTests
         [PerfBenchmark(NumberOfIterations = 5, RunMode = RunMode.Throughput,
         TestMode = TestMode.Test, SkipWarmups = true)]
         [ElapsedTimeAssertion(MaxTimeMilliseconds = 2000)]
-        public void PerformanceTestCreateProject()
+        public void PerformanceTestCreateTasks()
         {
             // Set up Prerequisites   
-            var controller = new ProjectController();
+            var controller = new TaskController();
             // Act on Test  
-            TaskManager.Models.Project testProject = new TaskManager.Models.Project()
+            TaskManager.Models.Task testTask = new TaskManager.Models.Task()
             {
-                
-                NoOfCompletedTasks = 1,
-                NoOfTasks = 5,
-                Priority = 1,
-                ProjectEndDate = new System.DateTime(2019, 7, 12),
-                ProjectStartDate = new System.DateTime(2019, 5, 9),
-                ProjectName = "TestDevelopmentProject#2",
-                User = new TaskManager.Models.User()
-                {
-                    EmployeeId = "100001",
-                    FirstName = "User2FName",
-                    LastName = "User2LName",
-                    ProjectId = 234,
-                    UserId = 1
-                }
+                Task_Name = "Task10",
+                Start_Date = DateTime.Now,
+                End_Date = DateTime.Now.AddDays(4),
+                Priority = 1                
             };
-            var response = controller.InsertProjectDetails(testProject);
+            var response = controller.InsertTaskDetails(testTask);
             // Assert the result  
             Assert.IsTrue(response != null);
         }
