@@ -1,0 +1,8 @@
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\PerformanceTests.dll.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\PerformanceTests.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\PerformanceTests\bin\Debug\PerformanceTests.pdb
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\PerformanceTests\Debug\PerformanceTests.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\PerformanceTests\Debug\PerformanceTests.pdb

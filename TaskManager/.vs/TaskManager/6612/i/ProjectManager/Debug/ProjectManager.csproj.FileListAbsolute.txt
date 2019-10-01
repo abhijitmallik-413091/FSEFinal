@@ -1,0 +1,6 @@
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager\bin\ProjectManager.dll.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager\bin\ProjectManager.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager\bin\ProjectManager.pdb
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager\Debug\ProjectManager.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager\Debug\ProjectManager.pdb

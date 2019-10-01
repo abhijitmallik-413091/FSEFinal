@@ -1,0 +1,9 @@
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\b\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.pdb
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager.Tests\Debug\ProjectManager.Tests.csprojResolveAssemblyReference.cache
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager.Tests\Debug\ProjectManager.Tests.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\.vs\ProjectManager\6612\i\ProjectManager.Tests\Debug\ProjectManager.Tests.pdb

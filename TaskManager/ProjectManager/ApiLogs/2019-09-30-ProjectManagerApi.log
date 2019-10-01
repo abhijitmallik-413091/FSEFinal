@@ -1,0 +1,948 @@
+2019-09-30 00:03:53.9357|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/parent
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveParentTasks
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 00:03:54.0937|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/parent
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveParentTasks
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 00:38:01.9074|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 00:38:02.1034|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 00:38:31.4023|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 00:38:31.4143|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50830/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:06:27.3483|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/""/""/""/""/""/""/
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:06:27.3483|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/""/""/""/""/""/""/
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:11:21.9842|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/t/p/0/1/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:11:21.9842|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/t/p/0/1/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:13:59.0249|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:13:59.0249|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:14:28.9231|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:14:28.9261|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:22:26.3258|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:22:26.5128|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:23:37.5467|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:23:37.7185|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:24:53.7657|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 01:24:53.7657|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/asd/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:21:44.2539|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/task1/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:21:44.2539|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/task1/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:24.3930|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000016-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/update
+Controller : TaskManager.Controllers.TaskController
+Action : UpdateTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:24.3970|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000016-0001-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/update
+Controller : TaskManager.Controllers.TaskController
+Action : UpdateTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:38.0021|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000017-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:38.0051|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000017-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:41.4872|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000018-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:41.4912|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000018-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:48.2474|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000019-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/task1/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:23:48.2474|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000019-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/task1/""/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:45:36.2466|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:45:36.2466|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:46:33.4392|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:46:33.4452|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:52:40.8588|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:52:40.9838|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:54:29.1241|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:54:29.1241|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:57:59.2029|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:57:59.3435|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/08-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:03.9678|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/5/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:03.9678|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/5/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:24.9681|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/4/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:24.9681|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/4/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:32.7187|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:32.7187|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/2/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:46.3639|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/4/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:46.3639|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/4/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:51.3281|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/5/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 02:59:51.3361|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000011-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/5/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:00:25.2871|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/parent
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveParentTasks
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:00:25.2871|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/parent
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveParentTasks
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:03:53.7664|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0000-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:03:53.7664|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0000-fe00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:04:13.7182|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:04:13.7182|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:06:46.8756|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0002-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:06:46.8912|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0002-fb00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:40:29.4687|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0002-f900-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:40:29.6562|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0002-f900-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:48:29.2183|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000019-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:48:29.3706|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000019-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:50:36.7485|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001a-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:50:36.7485|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001a-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:51:48.9079|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001b-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:51:48.9149|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001b-0000-ff00-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:50831/api/tasks/add
+Controller : TaskManager.Controllers.TaskController
+Action : InsertTaskDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:53:27.1257|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001c-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/1/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:53:27.1413|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001c-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/1/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:53:57.8628|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001d-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:53:57.8628|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001d-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:55:23.3290|INFO|TaskManager.Utils.LoggingUtility|Request ID: 8000001d-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: The specified type member 'Parent_ID' is not supported in LINQ to Entities. Only initializers, entity members, and entity navigation properties are supported.
+
+
+2019-09-30 03:55:26.8305|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001e-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:55:26.8345|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000001e-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:55:31.7963|INFO|TaskManager.Utils.LoggingUtility|Request ID: 8000001e-0000-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: The specified type member 'Parent_ID' is not supported in LINQ to Entities. Only initializers, entity members, and entity navigation properties are supported.
+
+
+2019-09-30 03:55:34.2860|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:55:34.2860|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:55:53.2038|INFO|TaskManager.Utils.LoggingUtility|Request ID: 80000004-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: The specified type member 'Parent_ID' is not supported in LINQ to Entities. Only initializers, entity members, and entity navigation properties are supported.
+
+
+2019-09-30 03:56:10.3291|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 03:56:10.3321|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:02:52.3744|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:02:52.5150|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:03:09.8148|INFO|TaskManager.Utils.LoggingUtility|Request ID: 80000007-0002-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: The specified type member 'Parent_ID' is not supported in LINQ to Entities. Only initializers, entity members, and entity navigation properties are supported.
+
+
+2019-09-30 04:03:19.9357|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000024-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:03:19.9357|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000024-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:08:55.7818|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000017-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:08:56.1412|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000017-0000-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:22:02.1086|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:22:02.2024|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0003-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:39:46.2961|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:39:46.4367|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:41:05.3902|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/09-30-2019/10-01-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:41:05.3902|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/""/""/""/09-30-2019/10-01-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:41:49.9559|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-01-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:41:49.9619|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-01-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:18.8245|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:18.8245|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:30.4884|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000006-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:30.4884|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000006-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:46.7217|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-02-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:46.7277|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000007-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-02-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:58.4241|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:42:58.4271|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:43:16.0634|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-3-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:43:16.0664|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-3-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:43:23.5137|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-2-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:43:23.5137|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/09-30-2019/10-2-2019
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:24.1409|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000b-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:24.1409|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000b-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/""/""/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:40.2650|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/11/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:40.2650|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/11/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:47.4154|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:47.4154|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000d-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:48.8686|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:48.8686|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000e-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/3/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:53.7609|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/5/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:53.7609|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000f-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/5/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:58.9484|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/4/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-30 04:44:58.9484|INFO|TaskManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0000-fc00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/tasks/""/asd/4/8/""/""
+Controller : TaskManager.Controllers.TaskController
+Action : RetrieveTaskByUserInput
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+

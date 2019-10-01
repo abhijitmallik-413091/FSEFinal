@@ -1,0 +1,207 @@
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.rsp
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.rsp
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.AppContext.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Collections.Immutable.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Console.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Compression.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.AccessControl.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Claims.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.ValueTuple.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.rsp
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe.config
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\FTDB022\FSE_Final SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll.config
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe.config
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.rsp
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe.config
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.rsp
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.AppContext.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Collections.Immutable.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Console.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Compression.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.AccessControl.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Claims.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.ValueTuple.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe.config
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.rsp
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe.config
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+C:\FTDB022\FSE_Final_SBA_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll.config
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.exe.config
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csc.rsp
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.exe.config
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\csi.rsp
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.AppContext.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Collections.Immutable.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Console.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Compression.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.AccessControl.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Claims.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.ValueTuple.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.exe.config
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\vbc.rsp
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe.config
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\NLog.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\FTDB022\FSE_FinalSBA_205113\FSE_205113\03_Middle_Tier_Layer\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
