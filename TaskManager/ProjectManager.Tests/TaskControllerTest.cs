@@ -18,10 +18,56 @@ namespace TaskManager.Test
             var context = new MockTaskDBEntities();
             InitializeData(context);
             var controller = new TaskController(new BC.TaskBC(context));
-            var result = controller.RetrieveTaskByUserInput("Task1", null, null, null, DateTime.MinValue, DateTime.MinValue) as JSendResponse;
+            var result = controller.RetrieveTaskByUserInput("Task1", "", 1, 12, DateTime.Now, DateTime.Now.AddDays(5)) as JSendResponse;
 
             Assert.IsNotNull(result);
             Assert.IsInstanceOf(typeof(List<TaskManager.Models.Task>),result.Data);
+        }
+
+        [Test]
+        public void TestRetrieveTasks_Success_WithParent()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var controller = new TaskController(new BC.TaskBC(context));
+            var result = controller.RetrieveTaskByUserInput("Task2", "Task1", 1, 12, DateTime.Now, DateTime.Now.AddDays(5)) as JSendResponse;
+
+            Assert.IsNotNull(result);
+            Assert.IsInstanceOf(typeof(List<TaskManager.Models.Task>), result.Data);
+        }
+
+        [Test]
+        public void TestRetrieveTasks_Success_ParentTaskName()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var controller = new TaskController(new BC.TaskBC(context));
+            var result = controller.RetrieveTaskByUserInput("", "Task1", null, null, DateTime.MinValue, DateTime.MinValue) as JSendResponse;
+
+            Assert.IsNotNull(result);
+            Assert.IsInstanceOf(typeof(List<TaskManager.Models.Task>), result.Data);
+        }
+
+        [Test]
+        public void TestRetrieveTasks_Negative()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var controller = new TaskController(new BC.TaskBC(context));           
+
+            Assert.That(() => controller.RetrieveTaskByUserInput("", "", null, null, DateTime.MinValue, DateTime.MinValue),
+              Throws.TypeOf<ArithmeticException>());
+        }
+
+        [Test]
+        public void TestRetrieveTasks_NegativeNullDate()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var controller = new TaskController(new BC.TaskBC(context));
+
+            Assert.That(() => controller.RetrieveTaskByUserInput("", "", null, null, null, null),
+              Throws.TypeOf<ArithmeticException>());
         }
 
         [Test]
@@ -58,6 +104,66 @@ namespace TaskManager.Test
         }
 
         [Test]
+        public void TestInsertTasks_Success_WithParent()
+        {
+            var context = new MockTaskDBEntities();
+
+            var task = new TaskManager.Models.Task()
+            {
+                Task_Name = "Task4",
+                ParentTaskName = "Task1",
+                Start_Date = DateTime.Now,
+                End_Date = DateTime.Now.AddDays(2),
+                Priority = 10,
+                Status = 0,
+            };
+
+            var controller = new TaskController(new BC.TaskBC(context));
+            var result = controller.InsertTaskDetails(task) as JSendResponse;
+            Assert.IsNotNull(result);
+        }
+
+        [Test]
+        public void TestInsertTasks_Success_WithExistingParent()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var task = new TaskManager.Models.Task()
+            {
+                Task_Name = "Task4",
+                ParentTaskName = "Task1",
+                Start_Date = DateTime.Now,
+                End_Date = DateTime.Now.AddDays(2),
+                Priority = 10,
+                Status = 0,
+            };
+
+            var controller = new TaskController(new BC.TaskBC(context));
+            var result = controller.InsertTaskDetails(task) as JSendResponse;
+            Assert.IsNotNull(result);
+        }
+
+        [Test]
+        public void TestInsertTasks_Success_WithExistingParentInTask()
+        {
+            var context = new MockTaskDBEntities();
+            InitializeData(context);
+            var task = new TaskManager.Models.Task()
+            {
+                Task_Name = "Task4",
+                ParentTaskName = "Task2",
+                Start_Date = DateTime.Now,
+                End_Date = DateTime.Now.AddDays(2),
+                Priority = 10,
+                Status = 0,
+            };
+
+            var controller = new TaskController(new BC.TaskBC(context));
+            var result = controller.InsertTaskDetails(task) as JSendResponse;
+            Assert.IsNotNull(result);
+        }
+
+        [Test]
         public void TestUpdateTasks_Success()
         {
             var context = new MockTaskDBEntities();
@@ -65,8 +171,10 @@ namespace TaskManager.Test
             var testTask = new Models.Task()
             {
                 TaskId = 1,
-                Task_Name = "task11",                                               
+                Task_Name = "task11",
+                Start_Date = DateTime.Now.AddDays(1),
                 End_Date = DateTime.Now.AddDays(5),
+                Status = 2,
                 Priority = 28,                              
             };
 
@@ -91,8 +199,7 @@ namespace TaskManager.Test
             var controller = new TaskController(new BC.TaskBC(context));
             var result = controller.DeleteTaskDetails(testTask) as JSendResponse;
 
-            Assert.IsNotNull(result);
-            Assert.AreEqual((int)result.Data, 2);
+            Assert.IsNotNull(result);           
         }     
         
         [Test]       
@@ -115,16 +222,16 @@ namespace TaskManager.Test
              Throws.TypeOf<ArithmeticException>());
         }        
 
-        [Test]       
-        public void TestInsertTask_NegativeTaskId()
-        {
-            var context = new MockTaskDBEntities();
-            TaskManager.Models.Task task = new Models.Task();
-            task.TaskId = -234;
-            var controller = new TaskController(new BC.TaskBC(context));           
-            Assert.That(() => controller.InsertTaskDetails(task),
-                Throws.TypeOf<ArithmeticException>());
-        }
+        //[Test]       
+        //public void TestInsertTask_NegativeTaskId()
+        //{
+        //    var context = new MockTaskDBEntities();
+        //    Models.Task task = new Models.Task();
+        //    task.TaskId = -234;
+        //    var controller = new TaskController(new BC.TaskBC(context));           
+        //    Assert.That(() => controller.InsertTaskDetails(task),
+        //        Throws.TypeOf<ArithmeticException>());
+        //}
 
         [Test]        
         public void TestUpdateTask_NullTaskObject()

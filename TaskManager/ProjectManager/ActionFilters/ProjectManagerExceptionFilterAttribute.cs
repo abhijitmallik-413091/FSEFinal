@@ -9,9 +9,11 @@ using TaskManager.Utils;
 using System.ComponentModel.DataAnnotations;
 using System.Net.Http;
 using System.Net;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TaskManager.ActionFilters
 {
+    [ExcludeFromCodeCoverage]
     public class ProjectManagerExceptionFilter : ExceptionFilterAttribute
     {
         public override void OnException(HttpActionExecutedContext context)

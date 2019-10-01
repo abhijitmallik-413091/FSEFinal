@@ -4,10 +4,12 @@ using System.Web.Http.Controllers;
 using System.Web.Http.Tracing;
 using System.Web.Http;
 using TaskManager.Utils;
+using System.Diagnostics.CodeAnalysis;
 //using WebApi.Helpers;
 
 namespace TaskManager.ActionFilters
 {
+    [ExcludeFromCodeCoverage]
     public class ProjectManagerLogFilter : ActionFilterAttribute
     {
         public override void OnActionExecuting(HttpActionContext filterContext)

@@ -6,9 +6,11 @@ using System.Web.Http.Tracing;
 using NLog;
 using System.Net.Http;
 using System.Text;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TaskManager.Utils
 {
+    [ExcludeFromCodeCoverage]
     public sealed class LoggingUtility : ITraceWriter
     {
         private static readonly Logger ClassLogger = LogManager.GetCurrentClassLogger();
